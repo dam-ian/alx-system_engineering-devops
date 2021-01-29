@@ -1,2 +1,3 @@
 #!/bin/bash
-mkdir -p htg{welcome,to,holberton} /n 
+mkdir -p htg{welcome,to,holberton}
+ 
