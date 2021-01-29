@@ -1,3 +1,5 @@
 #!/bin/bash
-mkdir -p htg{welcome,to,holberton}
+mkdir -p welcome/{/welcome/to,welcome/to/holberton}
+
+
  
